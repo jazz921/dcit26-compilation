@@ -10,7 +10,7 @@ Emerging Technologies
 * https://snack.expo.io/@username/lab5
 * https://snack.expo.io/@username/lab6
 
-## Members (BSCS 3‐X)
+## Members (BSCS 3‐2)
 * Joaquin, Justine Dave A.
 * Villanueva, Neil Joshua C.
 * Gamo, Arvin Julius S.
